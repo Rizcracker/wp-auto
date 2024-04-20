@@ -4,6 +4,15 @@ In this version we added more features like auto upload themes, plugin (with bac
 
 ![Wp-Auto](https://github.com/fooster1337/wp-auto/assets/89574993/c3549c88-c572-440a-b9ec-1a9c5d77ed7b)
 
+# Version 1.1 Update
+```
+1. Auto Install WP File Manager
+2. Auto Upload Shell From WP File Manager
+3. Add Some Features
+4. More simple code.
+5. etc..
+```
+
 ## Installation
 ```
 pip install requests colorama
